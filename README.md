@@ -7,4 +7,7 @@ Steps:
 4. In settings.py file add AUTH_USER_MODEL = 'user.User'
 5. Create and Apply migrations
 
+
 Review Done
+Review Pending
+
